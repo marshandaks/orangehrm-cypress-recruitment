@@ -1,0 +1,52 @@
+{
+  "validCandidate": {
+    "firstName": "Budi",
+    "middleName": "",
+    "lastName": "Santoso",
+    "email": "budi.santoso.test@example.com",
+    "contactNumber": "081234567890"
+  },
+  "invalidEmailCandidate": {
+    "firstName": "Budi",
+    "lastName": "Santoso",
+    "email": "budi@@test"
+  },
+  "invalidContactCandidate": {
+    "firstName": "Budi",
+    "lastName": "Santoso",
+    "email": "invalid.contact@example.com",
+    "contactNumber": "-----------"
+  },
+  "shortNameCandidate": {
+    "firstName": "B",
+    "lastName": "S",
+    "email": "short.name@example.com"
+  },
+  "numericNameCandidate": {
+    "firstName": "123",
+    "lastName": "456",
+    "email": "numeric.name@example.com"
+  },
+  "validNameCandidate": {
+    "firstName": "Daniel",
+    "lastName": "Pratama",
+    "email": "daniel.pratama@example.com"
+  },
+  "vacancy": {
+    "name": "QA Tester 2026",
+    "numberOfPositions": "5"
+  },
+  "validVacancy": {
+    "name": "QA Engineer Automation",
+    "numberOfPositions": "3"
+  },
+  "invalidVacancy": {
+    "shortName": "A",
+    "numericName": "12345",
+    "specialName": "@#$%^&*"
+  },
+  "search": {
+    "candidateName": "Budi Santoso",
+    "status": "Shortlisted"
+  }
+}

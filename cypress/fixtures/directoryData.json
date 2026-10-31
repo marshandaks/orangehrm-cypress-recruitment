@@ -1,0 +1,30 @@
+{
+  "employee": {
+    "valid": "Tariq Baidis",
+    "keyword": "Tariq",
+    "lowerCase": "tariq baidis",
+    "withContact": "Tariq Baidis",
+    "noDetail": "Tariq Baidis",
+    "phone": "112-342-0005",
+    "email": "peter@osohrm.com"
+  },
+  "invalid": {
+    "notFound": "Zzzxqw",
+    "special": "@#$%^&*<script>"
+  },
+  "filter": {
+    "jobTitle": "Human Resources",
+    "location": "Texas R&D",
+    "department": "Human Resources"
+  },
+  "message": {
+    "invalid": "Invalid",
+    "noRecordsFound": "No Records Found",
+    "recordsFound": "Records Found"
+  },
+  "filterLabels": [
+    "Employee Name",
+    "Job Title",
+    "Location"
+  ]
+}
